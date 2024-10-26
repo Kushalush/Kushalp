@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Curriculum Vitae - Kushal Paudel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #003366;
+            text-align: center;
+        }
+        .header {
+            text-align: center;
+        }
+        .photo {
+            text-align: right;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 8px;
+        }
+        .section-title {
+            background-color: #003366;
+            color: white;
+            padding: 10px;
+            font-size: 18px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .declaration {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #eaeaea;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Curriculum Vitae</h1>
+            <h2>Kushal Paudel</h2>
+            <p>Address: Bardibas Municipality-01, Mahottari, Nepal | Mobile: +977-9746670559 | Email: pkushal383@gmail.com</p>
+        </div>
+        
+        <div class="section">
+            <h3 class="section-title">Objective</h3>
+            <p>To be able to join an organization where my past qualification and experience can be fully utilized and that I may be able to contribute to the success of the organization while enhancing my knowledge, skills, and offers for opportunities of advancement.</p>
+        </div>
+
+        <div class="section">
+            <h3 class="section-title">Personal Information</h3>
+            <table>
+                <tr>
+                    <td>Date of Birth</td>
+                    <td>10 Feb. 2006</td>
+                </tr>
+                <tr>
+                    <td>Father's Name</td>
+                    <td>Mr. Shyam Kumar Paudel</td>
+                </tr>
+                <tr>
+                    <td>Driving License No.</td>
+                    <td>01-04-01495638</td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>Male</td>
+                </tr>
+                <tr>
+                    <td>Nationality</td>
+                    <td>Nepali</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>English, Hindi & Nepali</td>
+                </tr>
+                <tr>
+                    <td>Hobbies</td>
+                    <td>Traveling, Music</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h3 class="section-title">Academic Qualification</h3>
+            <table border="1">
+                <tr>
+                    <th>Level</th>
+                    <th>Institution</th>
+                    <th>Board</th>
+                    <th>Grade</th>
+                </tr>
+                <tr>
+                    <td>SEE</td>
+                    <td>Shree Janata Secondary School, Gauridanda</td>
+                    <td>Board of SLC</td>
+                    <td>3.52 GPA</td>
+                </tr>
+                <tr>
+                    <td>+2</td>
+                    <td>Shree Janata Secondary School, Gauridanda</td>
+                    <td>NEB</td>
+                    <td>3.15 GPA</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h3 class="section-title">Skills</h3>
+            <ul>
+                <li>Flexible, Quick Learner, Dedicated and Hard Worker</li>
+                <li>Positive attitude, excellent stamina, and communication skill</li>
+                <li>Ability to work under pressure with minimum supervision</li>
+                <li>Basic Computer Knowledge</li>
+            </ul>
+        </div>
+
+        <div class="declaration">
+            <h3>Declaration</h3>
+            <p>I hereby declare that the above-mentioned details are true and correct to the best of my knowledge and belief.</p>
+            <p>Signed: <strong>Kushal Paudel</strong></p>
+        </div>
+    </div>
+
+</body>
+</html>
